@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../../../../.."
+		},
+		{
+			"name": "HelloJava",
+			"path": "../../../../../../../HelloJava"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic",
+		"java.server.launchMode": "Standard"
+	}
+}
